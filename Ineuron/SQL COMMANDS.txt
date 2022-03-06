@@ -1,0 +1,28 @@
+import mysql.connector as c
+mydb=c.connect(host='localhost',user='root',passwd='*22MGBEENa*')
+cursor=mydb.cursor()
+cursor.execute()
+-show databases
+-create database databasename
+-use (databasename)
+-insert into  (databasename.tablename) values
+-create table (databasename.tablename)(table col name)
+-drop table (databasename.tablename)-delete table
+-delete from (databasename.tablename) where condition
+-update (databasename.tablename) set condition where condition
+where-filter according to condition
+group by -use full coloum name from  table
+cursor.fetchall()
+select count as c left join eat as e on c.age=e.age;
+right join
+inner join
+
+
+with open(filename,'r') as e:
+a=[]
+f1=csv.reader(e,delimiter'')
+for i in f1
+ac=(i[0]....)
+a.append(ac)
+query='insert into table(coloum names) values(%s)'
+cursor.execute many(query,a)

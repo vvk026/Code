@@ -1,4 +1,0 @@
-import sqlite3
-c=sqlite3.coonect(name.db)
-cursor=c.cursor()
-ral,text ,int 

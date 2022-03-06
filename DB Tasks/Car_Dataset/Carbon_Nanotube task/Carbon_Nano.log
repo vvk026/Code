@@ -1,0 +1,61 @@
+2022-03-06 12:01:48,848 INFO Connection createdMongoClient(host=['cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True)
+2022-03-06 12:01:53,497 INFO Database createdDatabase(MongoClient(host=['cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1')
+2022-03-06 12:02:01,290 INFO Collection createdCollection(Database(MongoClient(host=['cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1'), 'To')
+2022-03-06 12:02:04,053 INFO Inserion success
+2022-03-06 12:05:15,815 ERROR Error occured'MongoDB' object has no attribute 'update_all'
+Traceback (most recent call last):
+  File "<ipython-input-2-9b1148685664>", line 45, in update
+    if self.update_all==True:
+AttributeError: 'MongoDB' object has no attribute 'update_all'
+2022-03-06 12:05:26,597 ERROR Error occured'MongoDB' object has no attribute 'update_all'
+Traceback (most recent call last):
+  File "<ipython-input-2-9b1148685664>", line 45, in update
+    if self.update_all==True:
+AttributeError: 'MongoDB' object has no attribute 'update_all'
+2022-03-06 12:06:02,879 ERROR Error occured'MongoDB' object has no attribute 'update_all'
+Traceback (most recent call last):
+  File "<ipython-input-2-9b1148685664>", line 45, in update
+    if self.update_all==True:
+AttributeError: 'MongoDB' object has no attribute 'update_all'
+2022-03-06 12:06:19,501 INFO Connection createdMongoClient(host=['cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True)
+2022-03-06 12:06:33,114 INFO Database createdDatabase(MongoClient(host=['cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1')
+2022-03-06 12:06:33,805 INFO Collection createdCollection(Database(MongoClient(host=['cluster0-shard-00-02.susx3.mongodb.net:27017', 'cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1'), 'To')
+2022-03-06 12:06:37,191 INFO Inserion success
+2022-03-06 12:06:38,480 INFO Update occured
+2022-03-06 12:07:15,490 INFO Searched one found
+2022-03-06 12:08:19,441 INFO Searched one found
+2022-03-06 12:08:55,280 INFO Searched one found
+2022-03-06 12:09:14,184 INFO Searched one found
+2022-03-06 12:09:25,118 INFO Searched one found
+2022-03-06 12:09:40,781 INFO Searched one found
+2022-03-06 12:09:45,901 INFO Searched one found
+2022-03-06 12:09:50,075 INFO Searched one found
+2022-03-06 12:10:15,977 INFO Searched one found
+2022-03-06 12:11:08,714 INFO Searched one found
+2022-03-06 12:11:11,701 INFO Searched one found
+2022-03-06 12:11:32,892 INFO Connection createdMongoClient(host=['cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True)
+2022-03-06 12:11:35,964 INFO Database createdDatabase(MongoClient(host=['cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1')
+2022-03-06 12:11:36,676 INFO Collection createdCollection(Database(MongoClient(host=['cluster0-shard-00-01.susx3.mongodb.net:27017', 'cluster0-shard-00-00.susx3.mongodb.net:27017', 'cluster0-shard-00-02.susx3.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, replicaset='atlas-12b2s9-shard-0', authsource='admin', retrywrites=True, w='majority', tls=True), 'Boom1'), 'To')
+2022-03-06 12:11:40,043 INFO Inserion success
+2022-03-06 12:11:40,786 INFO Update occured
+2022-03-06 12:11:41,705 INFO Searched one found
+2022-03-06 12:11:45,613 INFO Searched one found
+2022-03-06 12:12:49,005 INFO Searched one found
+2022-03-06 12:12:57,336 INFO Searched one found
+2022-03-06 12:13:11,136 INFO Searched one found
+2022-03-06 12:13:14,868 INFO Searched one found
+2022-03-06 12:13:19,444 INFO Searched one found
+2022-03-06 12:16:35,159 INFO Delete successfull
+2022-03-06 12:17:49,407 INFO Searched one found
+2022-03-06 12:18:00,053 INFO Searched one found
+2022-03-06 12:18:22,042 INFO Searched one found
+2022-03-06 12:18:27,854 INFO Searched one found
+2022-03-06 12:19:10,443 INFO Searched one found
+2022-03-06 12:21:06,503 INFO Searched one found
+2022-03-06 12:21:15,298 INFO Searched one found
+2022-03-06 12:21:19,937 INFO Searched one found
+2022-03-06 12:21:37,047 INFO Searched one found
+2022-03-06 12:27:15,018 INFO Searched one found
+2022-03-06 12:27:27,139 INFO Searched one found
+2022-03-06 12:27:34,168 INFO Searched one found
+2022-03-06 12:29:28,655 INFO Searched one found

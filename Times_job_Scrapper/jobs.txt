@@ -1,0 +1,175 @@
+company: Pure Tech Codex Private Limited
+job_title:Python
+Details: https://www.timesjobs.com/job-detail/python-pure-tech-codex-private-limited-pune-2-to-3-yrs-jobid-OHwfF0d6EhNzpSvf__PLUS__uAgZw==&source=srp
+Location: Pune
+Description: Job Description: 2 to 3 Years experience in Python.Expert in Python ,  with knowledge of at least one Python web framework  Flask ,  Django etc.Expert in server programming.Go... More Details
+Skills_req: rest  ,  python  ,  database  ,  django  ,  debugging  ,  mongodb
+
+company: Surya Informatics Solutions Pvt. Ltd.
+job_title:Python
+Details: https://www.timesjobs.com/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&source=srp
+Location: Chennai
+Description: POSITION: Python Developer ELIGIBILITY: FRESHERS Your RoleUnderstand requirements and participate in project road map discussions in order to design ,  estimate ,  and deliver... More Details
+Skills_req: python  ,  web technologies  ,  linux  ,  mobile  ,  mysql  ,  angularjs  ,  javascript
+
+company: GEMINI SOFTWARE SOLUTIONS
+job_title:QA Python / Python SDET
+Details: https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-software-solutions-gurgaon-4-to-7-yrs-jobid-QGkfZ0IeljpzpSvf__PLUS__uAgZw==&source=srp
+Location: Gurgaon
+Description: QA Python / Python SDET QA Python / Python SDET4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Tes... More Details
+Skills_req: python  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  sql database
+
+company: Gemini Solutions
+job_title:QA Python / Python SDET
+Details: https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+Location: Gurgaon
+Description: 4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+Skills_req: python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  api  ,  sql database
+
+company: Angel and Genie
+job_title:Python developers
+Details: https://www.timesjobs.com/job-detail/python-developers-angel-and-genie-pune-4-to-7-yrs-jobid-RdTRi__PLUS__3E__SLASH__bpzpSvf__PLUS__uAgZw==&source=srp
+Location: Pune
+Description: Required Skills:Strong experience in development  &  designing using Python4  years of experience in Python advanced skills like Flask2  years of experience working on GCP or ... More Details
+Skills_req: python  ,  docker  ,  messaging  ,  python scripting
+
+company: rackspace technology
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-rackspace-technology-hyderabad-secunderabad-0-to-3-yrs-jobid-ACIvEVZJOwRzpSvf__PLUS__uAgZw==&source=srp
+Location: Hyderabad/Secunderabad
+Description: Responsibilities include :Architecting ,  building and operating scalable systems ,  services ,  and productsWriting clean ,  high-quality ,  scalable and maintainable codeImp... More Details
+Skills_req: python  ,  security  ,  git  ,  devops  ,  infrastructure
+
+company: Tata Communications Ltd
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-tata-communications-ltd-chennai-pune-0-to-3-yrs-jobid-uQMphp3UEp5zpSvf__PLUS__uAgZw==&source=srp
+Location: Chennai,  Pune
+Description: Purpose - Broad objective of the roleDevelop applications  /  bots end to end.Responsible to maintain the bot and support if required - resolve any technical problems that mig... More Details
+Skills_req: python  ,  information technology  ,  django
+
+company: Ivan Infotech Pvt. Ltd.
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+Location: Kolkata
+Description: We are looking for a Python Developer to join our development team. Python Developer responsibilities include writing and testing code ,  debugging programs and integrating ap... More Details
+Skills_req: rest  ,  python  ,  security  ,  debugging
+
+company: Wing Global IT Services
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-wing-global-it-services-panchkula-2-to-5-yrs-jobid-__PLUS__fePw2G3HHZzpSvf__PLUS__uAgZw==&source=srp
+Location: Panchkula
+Description: Candidates should be completed Graduation at least.Strong skills in java coding with spring boot  &  hibernate / JPA.Good knowledge of Django framework.server knowledge will b... More Details
+Skills_req: spring boot  ,  python  ,  java  ,  django  ,  jpa  ,  hibernate
+
+company: TandA HR Solutions
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-chandigarh-4-to-6-yrs-jobid-2OM9xzKEDx5zpSvf__PLUS__uAgZw==&source=srp
+Location: Gurgaon,  Chandigarh
+Description: Good to have working knowledge on unit testing of the Code and write Test Cases.Excellent to Have an account on GIT HubShould have done projects on Python ,  Django ,  FlaskMu... More Details
+Skills_req: python  ,  git  ,  django
+
+company: CONNECTING 2 WORK
+job_title:PYTHON TRAINER
+Details: https://www.timesjobs.com/job-detail/python-trainer-connecting-2-work-calicut-kozhikode-0-to-3-yrs-jobid-kXED__PLUS__hcGqIpzpSvf__PLUS__uAgZw==&source=srp
+Location: Calicut/ Kozhikode
+Description: Job Description We are looking for candidates with Proper  &  very good knowledge in Django  Flask framework  ( Mandatory )  , Coaching Experience  ( Mandatory )  Good Communi... More Details
+Skills_req: rest  ,  python  ,  django  ,  mongodb
+
+company: Datagrid Solutions
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-datagrid-solutions-mumbai-2-to-3-yrs-jobid-yAspoeIZIo5zpSvf__PLUS__uAgZw==&source=srp
+Location: Mumbai
+Description: Write well designed and optimized codeContribute in all phases of development lifecycle - troubleshoot ,  test and maintain the core product and database to ensure strong opti... More Details
+Skills_req: python  ,  database  ,  django  ,  mysql  ,  api
+
+company: east india securities ltd.
+job_title:Python Engineer
+Details: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+Location: Kolkata
+Description: job_description   2  years of experience working with python    Strong analytical skills    Ability to churn scripting solutions with a quick turnaround time    Inclination to... More Details
+Skills_req: python  ,  hadoop  ,  machine learning
+
+company: TandA HR Solutions
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-0-to-3-yrs-jobid-dMtCdFUMRY5zpSvf__PLUS__uAgZw==&source=srp
+Location: Gurgaon
+Description: Urgent Requirement of Python Developer profile in IT company for Gurgaon locationJOB DESCRIPTION-Below are the skillsets required :Django or PyCharm frameworkDockersSQLOpenShi... More Details
+Skills_req: python  ,  django  ,  sql
+
+company: hk infosoft
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-hk-infosoft-ahmedabad-2-to-3-yrs-jobid-qPkmbRWxs5dzpSvf__PLUS__uAgZw==&source=srp
+Location: Ahmedabad
+Description: Expert in Python ,  framework such as Django ,  Flask ,  etc.Understanding of the threading limitations of Python  &  multi-process architecture.Event-driven programming in Py... More Details
+Skills_req: python  ,  django  ,    ,   framework
+
+company: LAKSH HUMAN RESOURCE
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-laksh-human-resource-mumbai-1-to-3-yrs-jobid-Bo79FYBR7__SLASH__5zpSvf__PLUS__uAgZw==&source=srp
+Location: Mumbai
+Description: Powai ,  Mumbai Python Developer Experience : 1 to 3 yrs Skills Required : Job Summary : 1. Should have extensive knowledge of Python ,  Django frameowrk ,  REST APIs. 2. Shou... More Details
+Skills_req: rest  ,  python  ,  django  ,  git
+
+company: TandA HR Solutions
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-chandigarh-5-to-8-yrs-jobid-id252yPhiLZzpSvf__PLUS__uAgZw==&source=srp
+Location: Chandigarh
+Description: Opening for Python Developer profile in a MNC Company for Chandigarh Location.designation- Python DeveloperLocation  ChandigarhExperience  5-8 yearsSalary  10-15 LPAQualificat... More Details
+Skills_req: python  ,  git  ,  django
+
+company: BRICKRED TECHNOLOGIES PVT. LTD.
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-brickred-technologies-pvt-ltd-0-to-3-yrs-jobid-gFvdvfbX1XdzpSvf__PLUS__uAgZw==&source=srp
+Location: 
+Description: Detailed Job Description:1. Proficient in python and numerical programming ,  especially numpy ,  opencv ,  sckit-image ,  sklearn.2. Basic understanding in 3D image processin... More Details
+Skills_req: image processing  ,  python  ,  opencv
+
+company: BRICKRED TECHNOLOGIES PVT. LTD.
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-brickred-technologies-pvt-ltd-0-to-3-yrs-jobid-p9__SLASH__whk__PLUS____PLUS__Ie1zpSvf__PLUS__uAgZw==&source=srp
+Location: 
+Description: 1. Proficient in python and numerical programming ,  especially numpy ,  opencv ,  sckit-image ,  sklearn.2. Basic understanding in 3D image processing ,  especially warping3.... More Details
+Skills_req: image processing  ,  python  ,  opencv
+
+company: BRICKRED TECHNOLOGIES PVT. LTD.
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-brickred-technologies-pvt-ltd-0-to-3-yrs-jobid-LHhOOHnAobhzpSvf__PLUS__uAgZw==&source=srp
+Location: 
+Description: JD1. Proficient in python and numerical programming ,  especially numpy ,  opencv ,  sckit-image ,  sklearn.2. Basic understanding in 3D image processing ,  especially warping... More Details
+Skills_req: image processing  ,  python  ,  opencv
+
+company: TandA HR Solutions
+job_title:Python Developers
+Details: https://www.timesjobs.com/job-detail/python-developers-tanda-hr-solutions-chandigarh-2-to-5-yrs-jobid-OtVSvO0kmYNzpSvf__PLUS__uAgZw==&source=srp
+Location: Chandigarh
+Description: Job Description: Good to have working knowledge on unit testing of the Code and write Test Cases. Excellent to Have an account on GIT Hub Should have done projects on Python ,... More Details
+Skills_req: python  ,  git  ,  django
+
+company: JobsLo Consultants
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-jobslo-consultants-indore-2-to-3-yrs-jobid-XP1detWpoa5zpSvf__PLUS__uAgZw==&source=srp
+Location: Indore
+Description: Job Description : Python DeveloperQualification : BE/B.Tech , BBA , MBA , BCA , MCA Required only.Experience- 2.5- 3 yrs.salary-23k to 32kNo. of Openings : 1Job Type- Full Tim... More Details
+Skills_req: python  ,  linux  ,  windows  ,  sql
+
+company: Perfios Software Solutions Pvt. Ltd.
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-perfios-software-solutions-pvt-ltd-bengaluru-bangalore-5-to-8-yrs-jobid-vxzXapFfNqVzpSvf__PLUS__uAgZw==&source=srp
+Location: Bengaluru / Bangalore
+Description: Were looking for experienced developers who are interested in solving complex problems using Python ,  and the JVM. We like people who are willing to work across the technolog... More Details
+Skills_req: python  ,  java  ,  scala
+
+company: sjain ventures
+job_title:Python intern
+Details: https://www.timesjobs.com/job-detail/python-intern-sjain-ventures-raipur-0-to-3-yrs-jobid-KmspiL9__SLASH__D9hzpSvf__PLUS__uAgZw==&source=srp
+Location: Raipur
+Description: Python intern A Python Web Developer is responsible for writing server-side web application logic. Python web developers usually develop back-end components ,  connect the app... More Details
+Skills_req: python  ,  web developer  ,  web services
+
+company: systango
+job_title:Python Developer
+Details: https://www.timesjobs.com/job-detail/python-developer-systango-indore-5-to-8-yrs-jobid-YtDomXdajg5zpSvf__PLUS__uAgZw==&source=srp
+Location: Indore
+Description: Job Description Develop a web-based application using Python ,  Django ,  JavaScriptDesign ,  document ,  implement and provide leadership on a large core part of the manageme... More Details
+Skills_req: python  ,  django  ,  javascript  ,  web programming
+

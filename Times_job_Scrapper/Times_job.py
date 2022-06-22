@@ -26,15 +26,11 @@ def index():
             with open('jobs.txt','w') as f1:
                 for i in range(len(site_get)):
                     l = site_get[i].a['href']
-                    #site_loc.encoding = 'utf-8'
-                    #site_loc_bs = bs(site_loc.text, 'lxml')
-                    #company = site_get.find_all("div", {"class": "jd-header wht-shd-bx"})
                     company1 = site_get[i].h3.text.strip()
                     job=site_get[i].a.text.strip()
                     location=site_get_1[i].span.text.strip()
                     description=site_get_2[i].li.text.strip().split('\n')[1]
                     skills=site_get_2[i].span.text.strip()
-
                     a = {'company': company1,"job_title":job,"Location":location,"Description":description,"Skills_req":skills}
                     f1.write(f"company: {company1}")
                     f1.write('\n')
